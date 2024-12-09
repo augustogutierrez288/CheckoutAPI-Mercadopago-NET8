@@ -7,4 +7,8 @@
     <RootNamespace>CheckoutAPI_Mercadopago</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="mercadopago-sdk" Version="2.4.1" />
+  </ItemGroup>
+
 </Project>
